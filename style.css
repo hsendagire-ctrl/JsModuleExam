@@ -1,0 +1,42 @@
+html {
+  background: green;
+}
+
+body {
+  width: 500px;
+  margin: 20px auto;
+  text-align: center;
+  background: white;
+  padding: 40px 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#q1-out {
+  border: 3px solid black;
+  min-height: 100px;
+  width: 250px;
+  margin: auto;
+  font-size: 24px;
+}
+
+#q2-div {
+  border: 3px solid green;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+button {
+  padding: 5px 15px;
+}
+
+input {
+  width: 75px;
+  padding: 5px;
+}
+
+#q3-volume, #q3-area {
+  color: maroon;
+  font-size: 20px;
+  font-weight: bold;
+}
